@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zhoroslavchev
+- 👋 Hi, I’m @zhoroslavchev.
 - 👀 I’m interested in coding, cats, tech news and video games. 
 - 🌱 I’m currently learning JavaScript and Python.
 - 📫 How to reach me: zgslavchev@gmail.com || https://www.linkedin.com/in/zhoro-slavchev-b95a4913a/
